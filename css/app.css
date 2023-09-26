@@ -103,3 +103,10 @@ body::-webkit-scrollbar {
     pointer-events: none;
     background-color: #6c757d;
 }
+
+#particles-js{
+    width: auto;
+    height: auto;
+    background-size: auto;
+    background-position: 100% 100%;
+    }

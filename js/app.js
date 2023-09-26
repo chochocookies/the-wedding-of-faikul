@@ -779,3 +779,4 @@ window.addEventListener('load', () => {
     modal.show();
     opacity();
 }, false);
+
